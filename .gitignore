@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+env/
+*.env
+
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python pycache directories
+__pycache__/
+
+# pipenv
+Pipfile
+Pipfile.lock
